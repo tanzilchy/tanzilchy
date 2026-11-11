@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270">
+  <title>Tanzil Chowdhury: SRE, Platform and DevOps Engineer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1F3864"/>
+      <stop offset="1" stop-color="#2E5597"/>
+    </linearGradient>
+    <style>
+      text { font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+      .name { font-size: 54px; font-weight: 700; letter-spacing: 1px; }
+      .role { font-size: 27px; font-weight: 600; fill: #DCE6F5; }
+      .tag  { font-size: 19px; font-weight: 400; fill: #B7C9E6; letter-spacing: 0.5px; }
+      .fade { opacity: 0; animation: in 1.2s ease-out forwards; }
+      .d1 { animation-delay: 0.2s; } .d2 { animation-delay: 0.6s; } .d3 { animation-delay: 1s; }
+      @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+  </defs>
+  <path d="M0 0H1200V215C1050 250 900 200 750 222S450 262 300 232 100 205 0 228Z" fill="url(#bg)"/>
+  <text class="name fade d1" x="600" y="92" text-anchor="middle">Tanzil Chowdhury</text>
+  <text class="role fade d2" x="600" y="140" text-anchor="middle">SRE, Platform &amp; DevOps Engineer</text>
+  <text xml:space="preserve" class="tag fade d3" x="600" y="180" text-anchor="middle">Automating Infrastructure  |  Operating Reliable Systems at Scale</text>
+</svg>
