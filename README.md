@@ -26,8 +26,8 @@ Most of that work was on platforms that **move people's money** and answer to **
 
 ## Right now
 
-- **Studying:** **MSc in Communications Engineering** at **[Aalto University](https://www.aalto.fi/en)**, Espoo, graduating in **2028**. This term I'm taking **Cloud Software and Systems** and **Cybersecurity**, I've finished **Machine Learning**, and I'm planning a minor in **Quantum Technology**.
-- **Aiming for:** putting **5 years of running production systems** together with what I'm learning about **cloud, security and quantum technology**, so I can design infrastructure that is **secure and reliable from the start**. I'm also publishing the automation I've used at work as **open code**, starting with **[ansible-linux-baseline](https://github.com/tanzilchy/ansible-linux-baseline)**.
+- **Studying:** **MSc in Communications Engineering** at **[Aalto University](https://www.aalto.fi/en)**, Espoo, graduating in **2028**. In my major I'm studying **cloud software and systems**, **cybersecurity** and the **fundamentals of networked systems**, with **quantum computing** as my minor.
+- **Aiming for:** putting **5 years of running production systems** together with what I'm learning about **cloud, security, networking and quantum computing**, so I can design infrastructure that is **secure and reliable from the start**. I'm also publishing the automation I've used at work as **open code**, starting with **[ansible-linux-baseline](https://github.com/tanzilchy/ansible-linux-baseline)**.
 - **Looking for:** **SRE, platform, DevOps, infrastructure or network engineering** work in **Finland** that I can do alongside my studies. I can **start right away**.
 
 ## 🧰 Toolchain
